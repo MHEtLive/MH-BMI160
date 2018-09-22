@@ -1,2 +1,2 @@
 # MH-BMI160
-+ Code for Arduino
+ Code for Arduino
